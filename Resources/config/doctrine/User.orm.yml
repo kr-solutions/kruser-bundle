@@ -1,0 +1,12 @@
+KRSolutions\Bundle\KRUserBundle\Entity\User:
+    type: entity
+    table: kruser_users
+    id:
+        id:
+            type: integer
+            nullable: false
+            comment: ''
+            id: true
+            generator:
+                strategy: IDENTITY
+    lifecycleCallbacks: {  }
