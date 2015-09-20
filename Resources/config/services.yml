@@ -1,4 +1,0 @@
-services:
-#    kr_solutions_kr_user.example:
-#        class: KRSolutions\Bundle\KRUserBundle\Example
-#        arguments: [@service_id, "plain_value", %parameter%]

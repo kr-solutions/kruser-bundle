@@ -4,9 +4,7 @@ KRSolutions\Bundle\KRUserBundle\Entity\User:
     id:
         id:
             type: integer
-            nullable: false
-            comment: ''
             id: true
             generator:
-                strategy: IDENTITY
+                strategy: AUTO
     lifecycleCallbacks: {  }
