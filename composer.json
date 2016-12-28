@@ -1,7 +1,7 @@
 {
     "name": "kr-solutions/kruser-bundle",
     "type": "symfony-bundle",
-    "description": "User and subscriptions bundle for symfony 2",
+    "description": "User and subscriptions bundle for symfony 3",
     "homepage": "https://www.kr-solutions.nl/",
     "license": "MIT",
     "authors": [
@@ -16,6 +16,6 @@
         }
     },
     "require": {
-        "friendsofsymfony/user-bundle": "~2.0@dev"
+        "friendsofsymfony/user-bundle": "2.0.x-dev#612649c"
     }
 }
