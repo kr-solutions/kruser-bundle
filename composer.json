@@ -16,6 +16,6 @@
         }
     },
     "require": {
-        "friendsofsymfony/user-bundle": "2.0.x-dev#612649c"
+        "friendsofsymfony/user-bundle": "^1.3"
     }
 }
