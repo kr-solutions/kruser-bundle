@@ -2,7 +2,7 @@
 
 namespace KRSolutions\Bundle\KRUserBundle\Entity;
 
-use FOS\UserBundle\Entity\User as BaseUser;
+use FOS\UserBundle\Model\User as BaseUser;
 
 /**
  * User
